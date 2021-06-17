@@ -1,0 +1,6 @@
+https%3A%2F%2Fqa.apis.nzpost.co.nz\Payment.xml
+https%3A%2F%2Fqa.apis.nzpost.co.nz-1\Confirmation.xml
+https%3A%2F%2Fqa.apis.nzpost.co.nz-2\Cancel.xml
+Positive-scenarios_Vodafone-payment-services\Validation-of-Prepay-topup---VODTU.xml
+Positive-scenarios_Vodafone-payment-services\Validation-of-Prepay-topup---VODPH.xml
+Positive-scenarios_Vodafone-payment-services\Validation-of-Prepay-topup---BELAC.xml

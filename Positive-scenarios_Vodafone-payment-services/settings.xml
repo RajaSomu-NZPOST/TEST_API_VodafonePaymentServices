@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="a79f41d5-1ed6-4eb8-8fa0-6961b5d18b0c" name="Positive scenarios_Vodafone payment services" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="a79f41d5-1ed6-4eb8-8fa0-6961b5d18b0cfileName">Positive-scenarios_Vodafone-payment-services</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
